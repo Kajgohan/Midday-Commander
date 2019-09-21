@@ -1,0 +1,226 @@
+jack
+jack     tty7         :0               Thu Jan 24 09:02    gone - no logout
+reboot   system boot  4.4.162jfhogan   Thu Jan 24 09:02   still running
+jack     tty7         :0               Wed Jan 23 19:37 - down   (01:16)
+reboot   system boot  4.4.162jfhogan   Wed Jan 23 19:37 - 20:53  (01:16)
+jack     tty7         :0               Wed Jan 23 10:28 - crash  (09:08)
+reboot   system boot  4.4.162jfhogan   Tue Jan 22 16:32 - 20:53 (1+04:21)
+jack     tty7         :0               Tue Jan 22 12:19 - crash  (04:13)
+reboot   system boot  4.4.162jfhogan   Tue Jan 22 12:18 - 20:53 (1+08:35)
+jack     tty7         :0               Fri Jan 18 14:02 - crash (3+22:16)
+reboot   system boot  4.4.162jfhogan   Fri Jan 18 14:02 - 20:53 (5+06:51)
+jack     tty7         :0               Thu Jan 17 09:57 - crash (1+04:04)
+jack     tty7         :0               Tue Jan 15 19:20 - 09:57 (1+14:36)
+reboot   system boot  4.4.162jfhogan   Tue Jan 15 19:20 - 20:53 (8+01:33)
+jack     tty7         :0               Tue Jan 15 10:01 - crash  (09:19)
+reboot   system boot  4.4.162jfhogan   Tue Jan 15 10:01 - 20:53 (8+10:52)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:49 - 20:49  (00:00)
+jack     tty1                          Mon Jan 14 20:36 - down   (00:13)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:36 - 20:49  (00:13)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:10 - 20:10  (00:00)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:08 - 20:10  (00:02)
+jack     tty7         :0               Mon Jan 14 16:44 - down   (03:48)
+reboot   system boot  4.4.0-141-generi Mon Jan 14 16:44 - 20:33  (03:48)
+jack     tty7         :0               Mon Jan 14 12:13 - crash  (04:31)
+reboot   system boot  4.4.0-31-generic Mon Jan 14 12:13 - 20:33  (08:19)
+
+wtmp begins Mon Jan 14 12:13:08 2019
+total 96
+drwxr-xr-x   2 root root  4096 Jan 14 12:24 bin
+drwxr-xr-x   3 root root  4096 Jan 14 20:28 boot
+drwxrwxr-x   2 root root  4096 Jan 14 12:04 cdrom
+drwxr-xr-x  18 root root  4240 Jan 24 09:02 dev
+drwxr-xr-x 131 root root 12288 Jan 25 07:36 etc
+drwxr-xr-x   3 root root  4096 Jan 14 12:06 home
+lrwxrwxrwx   1 root root    33 Jan 14 12:38 initrd.img -> boot/initrd.img-4.4.0-141-generic
+lrwxrwxrwx   1 root root    32 Jan 14 12:08 initrd.img.old -> boot/initrd.img-4.4.0-31-generic
+drwxr-xr-x  22 root root  4096 Jan 14 12:21 lib
+drwx------   2 root root 16384 Jan 14 12:01 lost+found
+drwxr-xr-x   2 root root  4096 Jul 19  2016 media
+drwxr-xr-x   2 root root  4096 Jul 19  2016 mnt
+drwxr-xr-x   3 root root  4096 Jan 15 13:40 opt
+dr-xr-xr-x 192 root root     0 Jan 24 09:02 proc
+drwx------   3 root root  4096 Jul 19  2016 root
+drwxr-xr-x  24 root root   800 Jan 25 13:02 run
+drwxr-xr-x   2 root root 12288 Jan 14 12:25 sbin
+drwxr-xr-x   2 root root  4096 Jan 14 12:29 snap
+drwxr-xr-x   2 root root  4096 Jul 19  2016 srv
+dr-xr-xr-x  13 root root     0 Jan 25 11:11 sys
+drwxrwxrwt  13 root root  4096 Jan 25 23:08 tmp
+drwxr-xr-x  11 root root  4096 Jul 19  2016 usr
+drwxr-xr-x  14 root root  4096 Jul 19  2016 var
+lrwxrwxrwx   1 root root    30 Jan 14 12:38 vmlinuz -> boot/vmlinuz-4.4.0-141-generic
+lrwxrwxrwx   1 root root    29 Jan 14 12:08 vmlinuz.old -> boot/vmlinuz-4.4.0-31-generic
+total 96
+drwxr-xr-x   2 root root root  4096 Jan 14 12:24 bin
+drwxr-xr-x   3 root root root  4096 Jan 14 20:28 boot
+drwxrwxr-x   2 root root root  4096 Jan 14 12:04 cdrom
+drwxr-xr-x  18 root root root  4240 Jan 24 09:02 dev
+drwxr-xr-x 131 root root root 12288 Jan 25 07:36 etc
+drwxr-xr-x   3 root root root  4096 Jan 14 12:06 home
+lrwxrwxrwx   1 root root root    33 Jan 14 12:38 initrd.img -> boot/initrd.img-4.4.0-141-generic
+lrwxrwxrwx   1 root root root    32 Jan 14 12:08 initrd.img.old -> boot/initrd.img-4.4.0-31-generic
+drwxr-xr-x  22 root root root  4096 Jan 14 12:21 lib
+drwx------   2 root root root 16384 Jan 14 12:01 lost+found
+drwxr-xr-x   2 root root root  4096 Jul 19  2016 media
+drwxr-xr-x   2 root root root  4096 Jul 19  2016 mnt
+drwxr-xr-x   3 root root root  4096 Jan 15 13:40 opt
+dr-xr-xr-x 192 root root root     0 Jan 24 09:02 proc
+drwx------   3 root root root  4096 Jul 19  2016 root
+drwxr-xr-x  24 root root root   800 Jan 25 13:02 run
+drwxr-xr-x   2 root root root 12288 Jan 14 12:25 sbin
+drwxr-xr-x   2 root root root  4096 Jan 14 12:29 snap
+drwxr-xr-x   2 root root root  4096 Jul 19  2016 srv
+dr-xr-xr-x  13 root root root     0 Jan 25 11:11 sys
+drwxrwxrwt  13 root root root  4096 Jan 25 23:08 tmp
+drwxr-xr-x  11 root root root  4096 Jul 19  2016 usr
+drwxr-xr-x  14 root root root  4096 Jul 19  2016 var
+lrwxrwxrwx   1 root root root    30 Jan 14 12:38 vmlinuz -> boot/vmlinuz-4.4.0-141-generic
+lrwxrwxrwx   1 root root root    29 Jan 14 12:08 vmlinuz.old -> boot/vmlinuz-4.4.0-31-generic
+bin, boot, cdrom, dev, etc, home, initrd.img, initrd.img.old, lib, lost+found,
+media, mnt, opt, proc, root, run, sbin, snap, srv, sys, tmp, usr, var, vmlinuz,
+vmlinuz.old
+function0.txt
+Makefile
+mc0
+mc0.c
+mc1
+mc1.c
+mc2
+mc2.c
+outfunction0.txt
+README.txt
+test.txt
+jack
+jack     tty7         :0               Thu Jan 24 09:02    gone - no logout
+reboot   system boot  4.4.162jfhogan   Thu Jan 24 09:02   still running
+jack     tty7         :0               Wed Jan 23 19:37 - down   (01:16)
+reboot   system boot  4.4.162jfhogan   Wed Jan 23 19:37 - 20:53  (01:16)
+jack     tty7         :0               Wed Jan 23 10:28 - crash  (09:08)
+reboot   system boot  4.4.162jfhogan   Tue Jan 22 16:32 - 20:53 (1+04:21)
+jack     tty7         :0               Tue Jan 22 12:19 - crash  (04:13)
+reboot   system boot  4.4.162jfhogan   Tue Jan 22 12:18 - 20:53 (1+08:35)
+jack     tty7         :0               Fri Jan 18 14:02 - crash (3+22:16)
+reboot   system boot  4.4.162jfhogan   Fri Jan 18 14:02 - 20:53 (5+06:51)
+jack     tty7         :0               Thu Jan 17 09:57 - crash (1+04:04)
+jack     tty7         :0               Tue Jan 15 19:20 - 09:57 (1+14:36)
+reboot   system boot  4.4.162jfhogan   Tue Jan 15 19:20 - 20:53 (8+01:33)
+jack     tty7         :0               Tue Jan 15 10:01 - crash  (09:19)
+reboot   system boot  4.4.162jfhogan   Tue Jan 15 10:01 - 20:53 (8+10:52)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:49 - 20:49  (00:00)
+jack     tty1                          Mon Jan 14 20:36 - down   (00:13)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:36 - 20:49  (00:13)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:10 - 20:10  (00:00)
+reboot   system boot  4.4.162jfhogan   Mon Jan 14 20:08 - 20:10  (00:02)
+jack     tty7         :0               Mon Jan 14 16:44 - down   (03:48)
+reboot   system boot  4.4.0-141-generi Mon Jan 14 16:44 - 20:33  (03:48)
+jack     tty7         :0               Mon Jan 14 12:13 - crash  (04:31)
+reboot   system boot  4.4.0-31-generic Mon Jan 14 12:13 - 20:33  (08:19)
+
+wtmp begins Mon Jan 14 12:13:08 2019
+==== Mid-Day Commander, v0 ==== 
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Who Am I?--
+
+--Statistics--
+Elapsed Time:       4.86 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 92
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Last Logins--
+
+--Statistics--
+Elapsed Time:       2.61 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 89
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Directory Listings--
+Arguments?: 
+Path?: 
+--Statistics--
+Elapsed Time:      21.04 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 130
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Directory Listings--
+Arguments?: 
+Path?: 
+--Statistics--
+Elapsed Time:      14.02 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 127
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Directory Listings--
+Arguments?: 
+Path?: 
+--Statistics--
+Elapsed Time:       4.16 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 98
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Directory Listings--
+Arguments?: 
+Path?: 
+--Statistics--
+Elapsed Time:       7.37 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 96
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Who Am I?--
+
+--Statistics--
+Elapsed Time:       1.33 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 89
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 
+--Last Logins--
+
+--Statistics--
+Elapsed Time:       5.03 Milliseconds
+Page Faults: 0
+Reclaimed Page Faults: 86
+
+G'day, Commander! What command would you like to run? 
+  1. whoami   :Prints out the result of the whoami command 
+  2. last     :Prints out the result of the last command
+  3. ls       :Prints out the result of a listing on a user-specified path
+Option?: 

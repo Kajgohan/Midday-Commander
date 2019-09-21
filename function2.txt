@@ -1,0 +1,37 @@
+1
+2
+3
+-l
+/
+3
+-l --author
+/
+3
+-m
+/
+1
+2
+a
+ls -l
+4
+a
+sleep 5
+5
+p
+c
+/
+p
+a
+sleep 5&
+6
+a
+sleep 10&
+7
+r
+5
+1
+2
+c
+/home
+p
+e
